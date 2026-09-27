@@ -1,0 +1,32 @@
+
+evidenceformat_codebase_and_data.zip
+│
+├── README.md                          # Quickstart guide with run commands
+├── pyproject.toml                     # Package dependencies (Pydantic v2, Scipy, NumPy)
+│
+├── src/                               # Enterprise Engine Source Code
+│   ├── evidenceformat/
+│   │   ├── __init__.py
+│   │   ├── schemas.py                 # Pydantic v2 Canonical Models
+│   │   ├── engine.py                  # Neuro-Symbolic Rules & Nominative Labeler
+│   │   ├── audit.py                   # SHA-256 Cryptographic Hash Chain Engine
+│   │   ├── adapters.py                # FHIR R4 & xAPI Webhook Parsers
+│   │   ├── async_service.py           # Thread-Safe Async Pipeline
+│   │   └── pipeline.py
+│   ├── statmech_engine.py             # Telemetry Entropy & Information Theory Engine
+│   ├── server.py                      # FastAPI Webhook REST Server
+│   └── streamlit_pilot_dashboard.py   # Hosted Pilot Dashboard UI
+│
+├── data/                              # Evaluation Datasets
+│   ├── evidenceformat_simulated_dataset.csv
+│   ├── oncology_biomarker_200_pmid_dataset.csv  # 200-PMID Gold Standard Dataset
+│   └── evidenceformat_verified_audit.jsonl     # Cryptographic Hash Ledger Export
+│
+└── benchmarks/                        # Test & Evaluation Scripts
+    ├── generate_biomarker_dataset.py
+    ├── process_dataset.py             # Pure Pydantic v2 Batch Processing Runner
+    └── evaluate_precision.py          # 200-PMID Benchmark Precision Script
+
+
+
+

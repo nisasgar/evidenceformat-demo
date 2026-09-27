@@ -1,0 +1,101 @@
+event_id,event_type,patient_or_learner_id,timestamp,code,detail,age,sex,certainty_or_action,dose_or_score,competency_level,feedback_text,source_system,evidence_refs
+EV_0001,MedicationChange,PAT_1001,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 1,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.101
+EV_0002,Diagnosis,PAT_1002,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 2,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.102
+EV_0003,MedicationChange,PAT_1003,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 3,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.103
+EV_0004,Diagnosis,PAT_1004,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 4,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.104
+EV_0005,MedicationChange,PAT_1005,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 5,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.105; local_note_draft
+EV_0006,Diagnosis,PAT_1006,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 6,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.106
+EV_0007,MedicationChange,PAT_1007,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 7,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.107
+EV_0008,Diagnosis,PAT_1008,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 8,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.108
+EV_0009,MedicationChange,PAT_1009,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 9,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.109
+EV_0010,Diagnosis,PAT_1010,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 10,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.110; local_note_draft
+EV_0011,MedicationChange,PAT_1011,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 11,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.111
+EV_0012,Diagnosis,PAT_1012,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 12,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.112
+EV_0013,MedicationChange,PAT_1013,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 13,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.113
+EV_0014,Diagnosis,PAT_1014,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 14,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.114
+EV_0015,MedicationChange,PAT_1015,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 15,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.115; local_note_draft
+EV_0016,Diagnosis,PAT_1016,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 16,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.116
+EV_0017,MedicationChange,PAT_1017,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 17,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.117
+EV_0018,Diagnosis,PAT_1018,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 18,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.118
+EV_0019,MedicationChange,PAT_1019,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 19,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.119
+EV_0020,Diagnosis,PAT_1020,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 20,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.120; local_note_draft
+EV_0021,MedicationChange,PAT_1021,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 21,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.121
+EV_0022,Diagnosis,PAT_1022,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 22,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.122
+EV_0023,MedicationChange,PAT_1023,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 23,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.123
+EV_0024,Diagnosis,PAT_1024,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 24,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.124
+EV_0025,MedicationChange,PAT_1025,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 25,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.125; local_note_draft
+EV_0026,Diagnosis,PAT_1026,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 26,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.126
+EV_0027,MedicationChange,PAT_1027,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 27,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.127
+EV_0028,Diagnosis,PAT_1028,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 28,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.128
+EV_0029,MedicationChange,PAT_1029,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 29,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.129
+EV_0030,Diagnosis,PAT_1030,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 30,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.130; local_note_draft
+EV_0031,MedicationChange,PAT_1031,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 31,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.131
+EV_0032,Diagnosis,PAT_1032,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 32,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.132
+EV_0033,MedicationChange,PAT_1033,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 33,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.133
+EV_0034,Diagnosis,PAT_1034,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 34,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.134
+EV_0035,MedicationChange,PAT_1035,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 35,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.135; local_note_draft
+EV_0036,Diagnosis,PAT_1036,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 36,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.136
+EV_0037,MedicationChange,PAT_1037,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 37,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.137
+EV_0038,Diagnosis,PAT_1038,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 38,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.138
+EV_0039,MedicationChange,PAT_1039,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 39,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.139
+EV_0040,Diagnosis,PAT_1040,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 40,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.140; local_note_draft
+EV_0041,MedicationChange,PAT_1041,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 41,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.141
+EV_0042,Diagnosis,PAT_1042,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 42,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.142
+EV_0043,MedicationChange,PAT_1043,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 43,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.143
+EV_0044,Diagnosis,PAT_1044,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 44,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.144
+EV_0045,MedicationChange,PAT_1045,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 45,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.145; local_note_draft
+EV_0046,Diagnosis,PAT_1046,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 46,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.146
+EV_0047,MedicationChange,PAT_1047,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 47,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.147
+EV_0048,Diagnosis,PAT_1048,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 48,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.148
+EV_0049,MedicationChange,PAT_1049,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 49,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.149
+EV_0050,Diagnosis,PAT_1050,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 50,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.150; local_note_draft
+EV_0051,MedicationChange,PAT_1051,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 51,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.151
+EV_0052,Diagnosis,PAT_1052,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 52,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.152
+EV_0053,MedicationChange,PAT_1053,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 53,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.153
+EV_0054,Diagnosis,PAT_1054,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 54,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.154
+EV_0055,MedicationChange,PAT_1055,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 55,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.155; local_note_draft
+EV_0056,Diagnosis,PAT_1056,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 56,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.156
+EV_0057,MedicationChange,PAT_1057,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 57,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.157
+EV_0058,Diagnosis,PAT_1058,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 58,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.158
+EV_0059,MedicationChange,PAT_1059,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 59,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.159
+EV_0060,Diagnosis,PAT_1060,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 60,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.160; local_note_draft
+EV_0061,MedicationChange,PAT_1061,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 61,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.161
+EV_0062,Diagnosis,PAT_1062,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 62,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.162
+EV_0063,MedicationChange,PAT_1063,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 63,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.163
+EV_0064,Diagnosis,PAT_1064,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 64,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.164
+EV_0065,MedicationChange,PAT_1065,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 65,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.165; local_note_draft
+EV_0066,Diagnosis,PAT_1066,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 66,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.166
+EV_0067,MedicationChange,PAT_1067,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 67,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.167
+EV_0068,Diagnosis,PAT_1068,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 68,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.168
+EV_0069,MedicationChange,PAT_1069,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 69,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.169
+EV_0070,Diagnosis,PAT_1070,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 70,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.170; local_note_draft
+EV_0071,MedicationChange,PAT_1071,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 71,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.171
+EV_0072,Diagnosis,PAT_1072,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 72,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.172
+EV_0073,MedicationChange,PAT_1073,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 73,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.173
+EV_0074,Diagnosis,PAT_1074,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 74,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.174
+EV_0075,MedicationChange,PAT_1075,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 75,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.175; local_note_draft
+EV_0076,Diagnosis,PAT_1076,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 76,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.176
+EV_0077,MedicationChange,PAT_1077,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 77,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.177
+EV_0078,Diagnosis,PAT_1078,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 78,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.178
+EV_0079,MedicationChange,PAT_1079,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 79,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.179
+EV_0080,Diagnosis,PAT_1080,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 80,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.180; local_note_draft
+EV_0081,MedicationChange,PAT_1081,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 81,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.181
+EV_0082,Diagnosis,PAT_1082,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 82,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.182
+EV_0083,MedicationChange,PAT_1083,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 83,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.183
+EV_0084,Diagnosis,PAT_1084,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 84,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.184
+EV_0085,MedicationChange,PAT_1085,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 85,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.185; local_note_draft
+EV_0086,Diagnosis,PAT_1086,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 86,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.186
+EV_0087,MedicationChange,PAT_1087,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 87,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.187
+EV_0088,Diagnosis,PAT_1088,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 88,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.188
+EV_0089,MedicationChange,PAT_1089,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 89,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.189
+EV_0090,Diagnosis,PAT_1090,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 90,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.190; local_note_draft
+EV_0091,MedicationChange,PAT_1091,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 91,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.191
+EV_0092,Diagnosis,PAT_1092,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 92,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.192
+EV_0093,MedicationChange,PAT_1093,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 93,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.193
+EV_0094,Diagnosis,PAT_1094,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 94,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.194
+EV_0095,MedicationChange,PAT_1095,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 95,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.195; local_note_draft
+EV_0096,Diagnosis,PAT_1096,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 96,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.196
+EV_0097,MedicationChange,PAT_1097,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 97,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.197
+EV_0098,Diagnosis,PAT_1098,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 98,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.198
+EV_0099,MedicationChange,PAT_1099,2026-09-23T14:30:00Z,I10,Evaluation encounter for subject 99,62,M,,,,,Cochrane_Guideline_Repo,10.1001/jama.2025.199
+EV_0100,Diagnosis,PAT_1100,2026-09-23T14:30:00Z,E11,Evaluation encounter for subject 100,62,M,,,,,EHR_Clinical_Note,10.1001/jama.2025.200; local_note_draft
